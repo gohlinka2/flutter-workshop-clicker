@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Clicker',
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primaryColor: Colors.black,
       ),
       home: const Scaffold(
         body: SafeArea(
