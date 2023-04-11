@@ -1,10 +1,10 @@
 # clicker
 
-A clicker game.
+A clicker game in Flutter. The app shows 2 buttons and a score: one button lowers the score, the second increments it. Whoever gets the score to 10 or -10 first, wins!
+
+This project was made for a short workshop.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
